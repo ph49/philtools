@@ -1,0 +1,16 @@
+Package: philtools
+Type: Package
+Title: A Collection of Useful Stuff
+Version: 0.1
+Date: 2015-12-28
+Author: Phil
+Maintainer: <phil@actifio.com>
+Description:
+  scale_x_digital
+  scale_y_digital
+  %after%
+  %before%
+  %~%
+License: Actifio Internal
+LazyData: TRUE
+RoxygenNote: 5.0.1
